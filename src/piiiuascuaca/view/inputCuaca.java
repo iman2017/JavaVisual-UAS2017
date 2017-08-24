@@ -18,7 +18,7 @@ import piiiuascuaca.model.Cuaca;
 
 /**
  *
- * @author egref
+ * @author imanmuliawan
  */
 public class inputCuaca extends javax.swing.JFrame {
     public String id_cuaca;

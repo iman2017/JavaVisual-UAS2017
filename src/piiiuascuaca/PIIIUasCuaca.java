@@ -7,7 +7,7 @@ package piiiuascuaca;
 import piiiuascuaca.view.FrmCuaca;
 /**
  *
- * @author IMAN-IT
+ * @author imanmuliawan
  */
 public class PIIIUasCuaca {
 
